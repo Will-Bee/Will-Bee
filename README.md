@@ -3,8 +3,7 @@
 
 
 
-<img src="https://github-readme-stats-Will-Bee.vercel.app/api/top-langs/?username=Will-Bee&hide=html&layout=compact&theme=tokyonight"/>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Will-Bee=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Will-Bee/Will-Bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
