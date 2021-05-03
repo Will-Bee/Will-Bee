@@ -1,5 +1,4 @@
 ### Hi there 👋
-S
 <!--
 **Will-Bee/Will-Bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
