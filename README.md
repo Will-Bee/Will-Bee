@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+### Hi there 👋, I am Will Bee
+#### Something about me
+I am 16 y.o. student, i love photography and also i love to code
 
 
 
