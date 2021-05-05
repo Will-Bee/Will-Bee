@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 16 y.o. student, i love photography and also i love to code
+I am 16 y.o. student from Czechia, I love photography and also i love to code. I am learning to code in Python. i know very basics of C# too, but i am not much interested about it.
 
 
 
