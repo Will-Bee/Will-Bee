@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 16 y.o. student from Czechia. I can code simple things in Python 3, HTML, CSS but I suck at JS (help :D). I know very basics of C# too because of Unity engine, but I am not much interested in it.
+I am 17 y.o. student from Czechia. I can code simple things in Python 3, HTML, CSS but I suck at JS (help :D). I know very basics of C# too because of Unity engine, but I am not much interested in it.
 
 
 
