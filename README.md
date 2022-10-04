@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 17 y.o. student from Czechia. I can code simple things in Python 3, HTML, CSS but I suck at JS (help :D), BUT!!! I have it certificated now :D. I know very basics of C# too because of Unity engine, but I am not much interested in it.
+I am 17 y.o. student from Czechia. I can code simple things in Python, HTML CSS JS, C#, C++ on arduino platform.
 
 JS Certificate: https://www.sololearn.com/certificates/course/en/25761897/1024/landscape/png
 
