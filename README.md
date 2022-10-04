@@ -3,7 +3,6 @@
 I am 17 y.o. student from Czechia. I can code simple things in Python, HTML CSS JS, C#, C++ on arduino platform.
 
 JS Certificate: https://www.sololearn.com/certificates/course/en/25761897/1024/landscape/png
-
 Python Certificate: https://www.sololearn.com/certificates/course/en/25761897/1158/landscape/png
 
 
