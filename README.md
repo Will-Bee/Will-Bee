@@ -13,3 +13,4 @@ Python Certificate: https://www.sololearn.com/certificates/course/en/25761897/11
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-Bee&show_icons=true)  
 
+Buy me a coffee: https://www.buymeacoffee.com/vilembartosek
