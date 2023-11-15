@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 17 y.o. student from Czechia. I can code simple things in Python, HTML CSS JS, C#, C++ on arduino platform.
+I am 18 y.o. student from Czechia. I can do Python, C#, C++ on arduino platform, GOlang.
 
 JS Certificate: https://www.sololearn.com/certificates/course/en/25761897/1024/landscape/png
 
