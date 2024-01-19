@@ -1,10 +1,7 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 18 y.o. student from Czechia. I can do Python, C#, C++ on arduino platform, GOlang.
+I am 19 y.o. student from Czechia. I can do Python, C#, C++ on arduino platform, godot engine.
 
-JS Certificate: https://www.sololearn.com/certificates/course/en/25761897/1024/landscape/png
-
-Python Certificate: https://www.sololearn.com/certificates/course/en/25761897/1158/landscape/png
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Will-Bee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vilem_bartosek/)  
