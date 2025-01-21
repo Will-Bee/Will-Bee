@@ -9,5 +9,3 @@ I am 19 y.o. student from Czechia. I can do Python, C#, C++ on arduino platform,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Bee)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-Bee&show_icons=true)  
-
-Buy me a coffee: https://www.buymeacoffee.com/vilembartosek
