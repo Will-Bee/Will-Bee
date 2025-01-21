@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Will Bee
 #### Something about me
-I am 19 y.o. student from Czechia. I can do Python, C#, C++ on arduino platform, godot engine.
+I am from Czechia. I can do Python, C#, C++ on arduino platform, godot engine.
 
 
 
