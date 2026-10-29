@@ -1,10 +1,4 @@
-### Hi there 👋, I am Will Bee
-#### Something about me
-I am from Czechia. I can do Python, C#, C++ on arduino platform, godot engine.
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Will-Bee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vilem_bartosek/)  
+### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Bee)](https://github.com/anuraghazra/github-readme-stats)
 
